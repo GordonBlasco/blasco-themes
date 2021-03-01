@@ -127,7 +127,7 @@
 }
 
 .ace_comment {
-  color: #7260d6;
+  color: #e36899;
 }
 
 .ace_invisible {
